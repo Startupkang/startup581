@@ -1,0 +1,222 @@
+<head>
+    <meta charset="UTF-8" />
+    <title>優步小黃駕駛申請</title>
+</head>
+
+<body>
+  <div>
+      <ul class="first-ul">
+        <li><a href="#" >首頁</a></li>
+        <li><a href="#">未開通駕駛專區</a></li>
+        <li><a href="#">已開通駕駛專區</a></li>
+        <li><a href="https://lin.ee/eGUq16Q">點擊加入</a></li>
+      </ul>
+  </div>
+  <div class="title-page">
+    <img src="https://i.ibb.co/dBtJVc0/UberTaxi.jpg" style="width:100%;"/>
+  </div>
+  <h2 style="text-align:left;">🌟立即加入優步小黃，增加你的額外收入🌟</h2>
+  <div class="advantage-1">
+    <div><img src="https://i.ibb.co/B66Jf3g/taxi.png"></div>
+    <div>
+    <ul>
+      <li><b>自由選擇接案方式</b></li></br>
+      <li><font style="font-size:14px">你可以自行選擇用哪種方式接客</font></li>
+      <li><font style="font-size:14px">依照自己意願選用路招或透過系統接案</font></li>
+    </ul>
+    </div>
+  </div></br>
+  <div class="advantage-2">
+    <div><img src="https://i.ibb.co/WtTKcpF/analysis.png"></div>
+    <div>
+    <ul>
+      <li><b>大數據計算提升接案效率</b></li></br>
+      <li><font style="font-size:14px">利用大數據計算平假日乘車熱區</font></li>
+      <li><font style="font-size:14px">降低你的空車時間</font></li>
+    </ul>
+    </div>
+  </div></br>
+  <div class="advantage-3">
+    <div><img src="https://i.ibb.co/KD5zZdy/satisfaction.png"></div>
+    <div>
+      <ul>
+        <li><b>提供雙向評分機制</b></li></br>
+        <li><font style="font-size:14px">行程結束後駕駛與乘客彼此評分</font></li>
+        <li><font style="font-size:14px">提升顧客與駕駛整體素質</font></li>
+      </ul>
+    </div>
+  </div>
+  </br>
+  <a href="https://lin.ee/eGUq16Q">
+   <div class="br1" style="width:100%;">
+    <div class="br1-1" style="width:50%;">
+      <img src="https://i.ibb.co/xFPZjDm/UBERTAXI-2.jpg">
+    </div>
+    <div class="br1-2" style="width:50%;">
+      <img src="https://i.ibb.co/hVV48C8/UBERTAXI-3.jpg">
+    </div>
+   </div>
+  </a>
+  <div style="text-align:center;">
+    <font style="font-size:12px;">點擊名片快速詢問/申請</font>
+  </div>
+
+  <div class="information">
+    <h2 style="text-align:center;">🚖全台合作車隊資訊🚖</h2>
+    <button style="width:100%;"><div class="taipei" onclick="turnoff('divturnoff');">雙北&桃園地區👇</div></button>
+    <div class="taipei-1" id="divturnoff" style="display: none;">
+      <div class="QTaxi">
+        <div><img src="https://i.ibb.co/djPJSSy/QTaxi.jpg"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>Q Taxi 車隊</b></li>
+            <li>地址：台北市內湖區新湖一路159號</li>
+            <li>服務專線：02-6604-4888</li>
+            <li>服務時間：週一至週五10:00 ~18:00</li>
+            <li>(最後報到時間為17:30)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="crown">
+        <div><img src="https://i.ibb.co/ByQw1bQ/crown.jpg"></div>
+        <div style="margin-left:30px">
+        <ul>
+          <li><b>皇冠大車隊</b></li>
+          <li>地址：台北市北投區承德路七段401巷1028號</li>
+          <li>服務專線：02-2892-5588</li>
+          <li>服務時間：週一至週五09:30~17:30</li>
+          <li>(最後報到時間為17:00)</li>
+        </ul>
+        </div>
+      </div><br>
+      <div class="Daci">
+        <div><img src="https://i.ibb.co/DksZcsK/Daci.jpg"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>大慶大車隊</b></li>
+            <li>地址：台北市中正區和平西路二段23號</li>
+            <li>服務專線：02-2301-4567</li>
+            <li>服務時間：週一至週五09:00~18:00</li>
+            <li>(最後報到時間為17:00)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="CKTaxi">
+        <div><img src="https://i.ibb.co/4TkkdJb/CKTaxi.jpg"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>大慶大車隊</b></li>
+            <li>地址：台北市中正區三元街12號</li>
+            <li>服務專線：09-0123-4889</li>
+            <li>服務時間：週一至週五09:00~18:00</li>
+            <li>(最後報到時間為17:00)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="nice">
+        <div><img src="https://i.ibb.co/Q68sLsy/NICE.png"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>耐斯車隊</b></li>
+            <li>地址：新北市三重區中正南路269號1樓</li>
+            <li>服務專線：02-2970-3456</li>
+            <li>服務時間：週一至週五09:00~17:00</li>
+            <li>(最後報到時間為16:30)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="dawinshin">
+        <div><img src="https://i.ibb.co/yshrcFN/dawinshin.jpg"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>大文山車隊</b></li>
+            <li>地址：桃園市桃園區介新街79號</li>
+            <li>服務專線：03-376-0230</li>
+            <li>服務時間：週一至週五9:0 ~17:00</li>
+            <li>(午休時間12:00~13:00不開放服務，最後報到時間為16:30)</li><br>
+            <li>地址：台北市文山區萬隆街50-2號</li>
+            <li>服務電話：02-2935-3323</li>
+            <li>服務時間：週一至週五09:00～17:00</li>
+            <li>(午休時間12:00~13:00不開放服務，最後報到時間為16:30)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <button style="width:100%;"><div class="taichung" onclick="turnoff1('divturnoff1');">台中&彰化地區👇</div></button>
+    <div class="taichung-1" id="divturnoff1" style="display: none;">
+      <div class="flydog">
+        <div><img src="https://i.ibb.co/HFfjm4G/flydog.png"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>飛狗車隊</b></li>
+            <li>地址：台中市南區仁和路239號1樓</li>
+            <li>服務專線：04-2287-4222、04-2287-9222</li>
+            <li>服務時間：週一至週五9:00~17:30</li>
+            <li>(最後報到時間為 16:30)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="YBTaxi">
+        <div><img src="https://i.ibb.co/QCqkvC9/YBTaxi.png"></div>             <div style="margin-left:30px">
+          <ul>
+            <li><b>永保車隊</b></li>
+            <li>地址：台中市東區樂業一路135巷41號</li>
+            <li>服務專線：0920-620-748</li>
+            <li>服務時間：週一至週五10:00~18:30</li>
+            <li>(最後報到時間為18:00)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="YKTaxi">
+        <div><img src="https://i.ibb.co/Fmkz32L/YKTaxi.png"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>雅客衛星車隊</b></li>
+            <li>地址：彰化市中山路三段861-2號</li>
+            <li>服務專線：04-737-1818</li>
+            <li>服務時間：週一至週五9:00~18:00</li>
+            <li>(最後報到時間為17:00)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <button style="width:100%;"><div class="kaohsiung" onclick="turnoff2('divturnoff2');">高雄地區👇</div></button>
+    <div class="kaohsiung-1" id="divturnoff2" style="display: none;">
+      <div class="crown">
+        <div><img src="https://i.ibb.co/ByQw1bQ/crown.jpg"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>高雄皇冠大車隊</b></li>
+            <li>地址：高雄市鼓山區興隆路15號</li>
+            <li>服務專線：07-771-0277</li>
+            <li>服務時間：週一至週五9:00~18:00</li>
+            <li>(最後報到時間為17:30)</li>
+          </ul>
+        </div>
+      </div><br>
+      <div class="ksTaxi">
+        <div><img src="https://i.ibb.co/x7cPhK3/ksTaxi.png"></div>
+        <div style="margin-left:30px">
+          <ul>
+            <li><b>中華大車隊</b></li>
+            <li>地址：高雄市左營區高鐵路600-1號</li>
+            <li>服務專線：07-347-9055</li>
+            <li>服務時間：週一至週五9:00~18:00</li>
+            <li>(午休時間12:30~13:30不開放服務，最後報到時間為17:30)</li>
+          </ul>
+        </div>
+      </div><br>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <h2>優步小黃服務中心</h2>
+    <h4>台北服務中心一</h4>
+    <font style="font-size:14px;">服務地址：台北市中山區八德路二段123號</font></br>
+    <font style="font-size:14px;">服務時間：週一至週五 11:00 - 19:00(最後報到時間為 18:30)</font><br><br>
+    <h4>台北服務中心二</h4>
+    <font style="font-size:14px;">服務地址：台北市松山區八德路三段 157 號</font></br>
+    <font style="font-size:14px;">服務時間：週一至週五 11:00~19:00(最後報到時間為 18:30)</font>
+  </div><br>
+  <img src="https://i.ibb.co/3fknnKj/Uber-Taxi-Service.png" style="width:100%">
+</body>
